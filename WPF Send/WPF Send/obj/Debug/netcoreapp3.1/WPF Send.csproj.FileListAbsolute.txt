@@ -1,0 +1,26 @@
+C:\Users\peter\source\repos\WPF Send\WPF Send\bin\Debug\netcoreapp3.1\WPF Send.exe
+C:\Users\peter\source\repos\WPF Send\WPF Send\bin\Debug\netcoreapp3.1\WPF Send.deps.json
+C:\Users\peter\source\repos\WPF Send\WPF Send\bin\Debug\netcoreapp3.1\WPF Send.runtimeconfig.json
+C:\Users\peter\source\repos\WPF Send\WPF Send\bin\Debug\netcoreapp3.1\WPF Send.runtimeconfig.dev.json
+C:\Users\peter\source\repos\WPF Send\WPF Send\bin\Debug\netcoreapp3.1\WPF Send.dll
+C:\Users\peter\source\repos\WPF Send\WPF Send\bin\Debug\netcoreapp3.1\WPF Send.pdb
+C:\Users\peter\source\repos\WPF Send\WPF Send\obj\Debug\netcoreapp3.1\WPF Send.csproj.AssemblyReference.cache
+C:\Users\peter\source\repos\WPF Send\WPF Send\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\peter\source\repos\WPF Send\WPF Send\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\peter\source\repos\WPF Send\WPF Send\obj\Debug\netcoreapp3.1\WPF Send_MarkupCompile.cache
+C:\Users\peter\source\repos\WPF Send\WPF Send\obj\Debug\netcoreapp3.1\WPF Send_MarkupCompile.lref
+C:\Users\peter\source\repos\WPF Send\WPF Send\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\peter\source\repos\WPF Send\WPF Send\obj\Debug\netcoreapp3.1\WPF Send.g.resources
+C:\Users\peter\source\repos\WPF Send\WPF Send\obj\Debug\netcoreapp3.1\WPF Send.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\source\repos\WPF Send\WPF Send\obj\Debug\netcoreapp3.1\WPF Send.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\WPF Send\WPF Send\obj\Debug\netcoreapp3.1\WPF Send.AssemblyInfo.cs
+C:\Users\peter\source\repos\WPF Send\WPF Send\obj\Debug\netcoreapp3.1\WPF Send.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\WPF Send\WPF Send\obj\Debug\netcoreapp3.1\WPF Send.dll
+C:\Users\peter\source\repos\WPF Send\WPF Send\obj\Debug\netcoreapp3.1\WPF Send.pdb
+C:\Users\peter\source\repos\WPF Send\WPF Send\obj\Debug\netcoreapp3.1\WPF Send.genruntimeconfig.cache
+C:\Users\peter\source\repos\WPF Send\WPF Send\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\peter\source\repos\WPF Send\WPF Send\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\peter\source\repos\WPF Send\WPF Send\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\peter\source\repos\WPF Send\WPF Send\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\peter\source\repos\WPF Send\WPF Send\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\peter\source\repos\WPF Send\WPF Send\obj\Debug\netcoreapp3.1\WPF Send.csproj.CopyComplete
